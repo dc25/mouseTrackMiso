@@ -1,7 +1,6 @@
 {-# LANGUAGE RecordWildCards            #-}
 module Main where
 
-import           Control.Arrow
 import           Miso
 import           Debug.Trace
 
